@@ -12,7 +12,7 @@ Navigate into directory
 
 `cd Measure-Protocol-Assignment`
 
-Run shell script which calls the python script with arguements
+Run shell script which calls the python script with arguements. Currenly the only arguement is the input survey.csv. You can change path to --input. I will include the survey.csv in this repository so you can just run the following command.
 
 `sh run_proj.sh`
 
