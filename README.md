@@ -23,7 +23,9 @@ Run shell script which calls the python script with arguements
 I used some libraries not directly specifed in the assignment page:
 
 tqdm - used for progess bar of loops which take significant
+
 time - used for sleep function while making api calls
+
 argparse - used to pass in arguements so script is universal
 
 If you have trouble with any of these libraries, 
