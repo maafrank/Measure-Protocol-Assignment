@@ -6,15 +6,15 @@
 
 Clone repository
 
-'https://github.com/maafrank/Measure-Protocol-Assignment.git'
+`https://github.com/maafrank/Measure-Protocol-Assignment.git`
 
 Navigate into directory
 
-'cd Measure-Protocol-Assignment'
+`cd Measure-Protocol-Assignment`
 
 Run shell script which calls the python script with arguements
 
-'sh run_proj.sh'
+`sh run_proj.sh`
 
 ------------------------------------------------------------------------------
 
